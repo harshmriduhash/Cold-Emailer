@@ -1,6 +1,6 @@
-import EmailForm from "@/components/email-form"
-import Footer from "@/components/footer"
-import Header from "@/components/header"
+import EmailForm from "@/components/email-form";
+import Footer from "@/components/footer";
+import Header from "@/components/header";
 
 export default function Home() {
   return (
@@ -14,6 +14,5 @@ export default function Home() {
       </main>
       <Footer />
     </div>
-  )
+  );
 }
-
