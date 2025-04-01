@@ -5,6 +5,5 @@ export default function Footer() {
         <p>Built by Harsh Mriduhash</p>
       </div>
     </footer>
-  )
+  );
 }
-
