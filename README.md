@@ -50,7 +50,7 @@ npm run dev
 ### 🌐 Live Demo
 
 > Visit the deployed frontend on Vercel:  
-> **https://cold-emailr.vercel.app**
+> **https://cold-emailr.vercel.app/**
 
 ---
 
@@ -99,7 +99,7 @@ To update your resume, just replace the file in Drive — no workflow changes ne
 
 ## 👨‍💻 Built By
 
-**Swapnil Jadhav**  
+**Harsh Mriduhash**  
 Made with ❤️ using Next.js, Vercel, n8n, and OpenAI.
 
 ---
