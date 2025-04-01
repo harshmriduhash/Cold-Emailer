@@ -5,6 +5,5 @@ export default function Header() {
         <h1 className="text-xl font-bold">Cold Email Agent</h1>
       </div>
     </header>
-  )
+  );
 }
-
